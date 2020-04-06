@@ -18,6 +18,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   max-width: 500px;
+  transition: background .3s ease-in-out;
 }
 
 h1 {
