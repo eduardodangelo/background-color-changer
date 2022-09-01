@@ -33,7 +33,8 @@ h1 {
   font-size: 5rem;
   line-height: 1.1;
   text-align: center;
-  color: #013034;
+  /* color: #013034; */
+  color: #fff;
   text-transform: uppercase;
 }
 
