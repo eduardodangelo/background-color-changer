@@ -5,5 +5,4 @@ btn.addEventListener('click', () => {
   body.classList.toggle('alt-color');
 });
 
-console.log('hola');
-document.write(5);
+
