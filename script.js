@@ -6,3 +6,4 @@ btn.addEventListener('click', () => {
 });
 
 console.log('hola');
+document.write(5);
